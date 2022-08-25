@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivprasad</h1>
 <h3 align="center">an NLP enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivprasadsagare" alt="shivprasadsagare" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shivprasad59" target="blank"><img src="https://img.shields.io/twitter/follow/shivprasad59?logo=twitter&style=for-the-badge" alt="shivprasad59" /></a> </p>
-
 - 🔭 I’m currently working on **data-to-text and summarization models for low resource languages**
 
 - 👯 I’m looking to collaborate on **low-resource NLP, multilingual language models, NLP applications in production**
